@@ -1,6 +1,6 @@
 # Anastasia-s_portfolio
 
-![]https://github.com/Anastasiaromina/Anastasia-s_portfolio/blob/master/images/me.jpeg
+![alt text](https://github.com/Anastasiaromina/Anastasia-s_portfolio/blob/master/images/DSC01435.JPG)
 
 # School Plan
 Attends City College of San Francisco 
