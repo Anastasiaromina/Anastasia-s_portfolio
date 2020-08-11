@@ -25,3 +25,7 @@ Flexible
 Team Worker 
 Organized 
 Creative
+
+# Social Media Links 
+[instagram link] (https://www.instagram.com/stasiasnakes/?hl=ko)
+[twitter link] (https://twitter.com/stasiasnakes?lang=en)
